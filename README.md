@@ -6,7 +6,7 @@
 
 :book: С ноября 2021 года при прохождении [краткого курса](https://netology.ru/profile/program/andfree-7/lessons/109294/lesson_items/549653) «Разработка мобильных приложений с нуля» начал изучать язык Kotlin и разработку приложений под Android.
 После окончания, перешёл к более углубленному изучению. <br>
-На данном этапе я заканчиваю обучение в онлайн-школе "Нетология" по [курсу](https://netology.ru/programs/android-app#/lessons) "Android-разработчик с нуля".
+В марте 2023 года окончил [курс](https://netology.ru/programs/android-app#/lessons) "Android-разработчик с нуля" в онлайн-школе "Нетология" и защитил [Дипломный проект](https://github.com/MSPirat/NeWorkApp).
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=mspirat&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=mspirat&show_icons=true&count_private=true" /></a>
@@ -43,10 +43,10 @@
 :heavy_check_mark: [Карты, геопозиционирование, маркеры (Yandex Maps)](https://github.com/MSPirat/YandexMaps)<br>
 ***Задача***: Создание приложения для путешествий по России с возможностью отмечать места на карте и хранить их в памяти.
 
-:white_check_mark: [Дипломный проект по Android разработке(NeWorkApp)](https://github.com/MSPirat/NeWorkApp)<br>
+:heavy_check_mark: [Дипломный проект по Android разработке(NeWorkApp)](https://github.com/MSPirat/NeWorkApp)<br>
 ***Задача***: Создание клиент-серверного приложения по типу LinkedIn.
 
- ## :page_with_curl: Сертификаты:
+ ## :page_with_curl: Сертификаты и Дипломы:
  * [Разработка мобильных приложений с нуля](https://drive.google.com/file/d/1gNQdAjGyOKdQ9zGtsYtni1GBET9m_ZJt/view?usp=share_link) <br>
  * [GIT - система контроля версий](https://drive.google.com/file/d/16ZdSt4n65TiX9nxt49iyuLwYLXE6EFXd/view?usp=share_link) <br>
  * [Основы Figma](https://drive.google.com/file/d/1uqRoEsVdKVlKJIir6RO1vaPJFcWENoB5/view?usp=share_link) <br>
@@ -55,5 +55,6 @@
  * [Программирование на Kotlin под Android](https://drive.google.com/file/d/1v-nkEPocVblD4Ju9yky9goA4yiBAQGFk/view?usp=share_link) <br>
  * [Промышленная разработка под Android](https://drive.google.com/file/d/1ih6qLZjEr-L78GpDvPbSHtb-vqmT0d4w/view?usp=share_link) <br>
  * [Продвинутая разработка под Andriod](https://drive.google.com/file/d/13WB1FgYLk32_Vdv1wAo52CYvdifNI1AT/view?usp=share_link)<br>
+ * **[Диплом об окончании курса Android - разработчик](https://drive.google.com/file/d/1qvob_BwgDzRD5sSU6m-XgxDvVSPzLAjR/view?usp=share_link)**<br>
  
 #### :handshake: Буду рад рассмотреть от вас предложения о сотрудничестве :handshake:
